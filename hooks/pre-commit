@@ -10,7 +10,7 @@
 if "true" then
 then
 	cat <<\EOF
-You are commiting to my repo
+You are commiting to my repo -> symb link
 EOF
 	exit 0
 fi
